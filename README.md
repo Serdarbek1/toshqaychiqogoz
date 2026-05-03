@@ -1,1 +1,1 @@
-o'qima
+requirements.txt
